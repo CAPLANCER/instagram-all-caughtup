@@ -1,0 +1,36 @@
+body
+
+{
+    background: rgb(26, 26, 26);
+    font-family: 'Lato', sans-serif;;
+    
+}
+
+.main {
+    
+    text-align: center;
+    position: fixed;
+   top: 50%;
+    left: 50%;
+    margin-top:  -150px;
+    margin-left:  -500px;
+    width: 1000px;
+}
+
+.img {
+    
+    
+}
+
+.texts {
+    word-spacing: 1.5px;
+    letter-spacing: 1px;
+}
+.texts h2 {
+    color: rgb(253, 253, 253);
+}
+
+.texts h3 {
+    color: rgb(138, 138, 138);
+    
+}
